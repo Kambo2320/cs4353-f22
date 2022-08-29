@@ -1,5 +1,6 @@
 nickname, color
-Kamden-Burke
 Kam, Teal
 Mr.Life, Blue
-
+Schnazz, fuschia
+Tetricz, Green
+Mr.Life, Blue
