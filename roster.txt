@@ -1,2 +1,5 @@
 nickname, color
+Kamden-Burke
 Kam, Teal
+Mr.Life, Blue
+
